@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "cup cake",
+        "price": 3.99,
+        "image": { "fields": { "file": { "url": "./bakeryImages/m_four-cupcakes-photography-1120464.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "chocolate cake",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./bakeryImages/m_photo-of-chocolate-cake-2144200.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "fruit cupcake",
+        "price": 4.99,
+        "image": { "fields": { "file": { "url": "./bakeryImages/m_photo-of-cupcakes-1028704.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "berry cake",
+        "price": 22.49,
+        "image": { "fields": { "file": { "url": "./bakeryImages/m_cake-with-berries-on-plate-827513.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "doughnut",
+        "price": 1.69,
+        "image": { "fields": { "file": { "url": "./bakeryImages/m_doughnut-with-white-and-pink-sprinkles-867452.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "chocolate icing cupcake",
+        "price": 4.49,
+        "image": { "fields": { "file": { "url": "./bakeryImages/m_cupcake-with-chocolate-icing-1312476.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "blueberry chocolate cake",
+        "price": 22.49,
+        "image": { "fields": { "file": { "url": "./bakeryImages/m_blueberries-cake-chocolate-chocolate-cake-291528.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "macaron",
+        "price": 1.49,
+        "image": { "fields": { "file": { "url": "./bakeryImages/m_photo-of-macarons-3776939.jpg" } } }
+      }
+    }
+  ]
+}
